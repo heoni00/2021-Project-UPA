@@ -1,0 +1,15 @@
+1. image data를 encar와 영상 캡쳐를 이용하여 data수집
+
+2. makesese.ai를 이용해서 yolov5 labelig함.
+
+3. 증강방법 - 	어두운환경을 학습을 위해서 brightness 증강 기법 사용
+		좌측으로 치우쳐져있는 차량사진을 학습을 위해서 filp을 사용
+		차량경계부분 인식을 위해서 Bilateral_filter 사용
+		색의 밝기 정보만 받기 위해서 gray sclae filter 사용
+
+4. 위 증강된 데이터와 yolov5를 이용하여 train  시켰음.
+
+5.인식률은 epoch, batch와 증강방식을 변경시키면서 학습시키는중입니다.
+
+6. test데이터는 들어가는 야적지와 가장 비슷한 마트 주창장영상을 찍고 테스트했습니다
+	그리고 어두운 저녁상황을 고려해서 어두운 주창장에서 test를 시켜 봤습니다.
