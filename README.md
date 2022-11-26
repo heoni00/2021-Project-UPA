@@ -49,8 +49,31 @@ K-data 빅리더 프로그램 과정에 참여한 9개의 공공기관에서 제
 #### 서비스 구현 방법
 
 ![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_20](https://user-images.githubusercontent.com/67791317/203755196-5faa7255-867f-46cd-9ced-c114d8ff7301.jpg)
-![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_21](https://user-images.githubusercontent.com/67791317/203755204-66dadec6-4202-4300-929e-380fd1c98053.jpg)
 
-(서비스는 어떤식으로 구현되는지 설명)
+서비스 구현에서 관건은 빠른 속도로 이동하는 차량의 종류와 수량을 정확하게 카운트 할 수 있는 AI 알고르듬을 개발하는 것이 우선이었습니다. 또한, 보안상, 시설 운영상 선박 입구에 설치할 수 없는 카메라 대신 작업자가 작성한 검수표 엑셀 파일을 자동으로 DB에 업로드 할 수 있는 프로그램을 개발하는 것입니다. 
 
-웹 호스팅(Heroku)와 웹 DB 구축 그리고 python을 이용한 데이터 연동 기능 
+#### 서비스 기능 
+
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_21](https://user-images.githubusercontent.com/67791317/203755204-66dadec6-4202-4300-929e-380fd1c98053.jpg) 
+
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_22](https://user-images.githubusercontent.com/67791317/203755209-911fe571-2f31-409a-abd1-bea6c94ee223.jpg)
+
+앞선 서비스 개발이 완료된다면 감독관들은 개별 ID를 통해 모바일 웹으로 야적장의 현황표를 모델 검색, 이동 기록 검색 그리고 남은 잔여 차 대수를 확인 할 수 있게 됩니다.   
+
+#### UI 화면
+
+![RPReplay_Final1669447701 2](https://user-images.githubusercontent.com/67791317/204077665-8eb593a7-b8fa-4c4a-b6e1-9c9415c54d9e.gif)
+
+[본 서비스 체험하기 (웹)](https://big-leader-upa-project.herokuapp.com/chart)
+
+#### 알고리즘
+
+[![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_24](https://user-images.githubusercontent.com/67791317/203755213-8bc988a6-b5ba-4b0f-b7ad-f9a43e8906e9.jpg)](https://github.com/heoni00/2021-Project-UPA/tree/main/algorithm#readme)
+
+[알고리즘 설명 링크 🌏](https://github.com/heoni00/2021-Project-UPA/tree/main/algorithm#readme)
+
+#### 서비스 기대효과 및 한계
+
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_34](https://user-images.githubusercontent.com/67791317/203755250-c148d0cf-12d8-4c8a-8676-08e679ef89cc.jpg)
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_35](https://user-images.githubusercontent.com/67791317/203755254-86e38981-0acc-45f1-b6e7-db010d5652cd.jpg)
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_36](https://user-images.githubusercontent.com/67791317/203755257-80b9bc54-b694-4e53-a0bf-52390718aa74.jpg)
