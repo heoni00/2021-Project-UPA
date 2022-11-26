@@ -1,0 +1,6 @@
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_25](https://user-images.githubusercontent.com/67791317/203755214-73003e96-8b95-493b-a638-1714bcadb4ba.jpg)
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_26](https://user-images.githubusercontent.com/67791317/203755219-fc413129-eb2c-4753-9620-bc2bf4d3996c.jpg)
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_27](https://user-images.githubusercontent.com/67791317/203755222-026f2a06-0c52-4535-8f8d-2f5804d42b48.jpg)
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_28](https://user-images.githubusercontent.com/67791317/203755227-8fdaceaa-c3f0-4443-ad07-f5a436999070.jpg)
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_29](https://user-images.githubusercontent.com/67791317/203755232-64360086-961b-473d-826b-2bc98042bd1d.jpg)
+![최종_빅리더AI_NEXTLEVEL_bigchallenge_발표자료_30](https://user-images.githubusercontent.com/67791317/203755236-714c6111-63f5-4963-a743-5b04df870482.jpg)
