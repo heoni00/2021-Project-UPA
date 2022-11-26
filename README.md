@@ -62,7 +62,7 @@ K-data 빅리더 프로그램 과정에 참여한 9개의 공공기관에서 제
 
 #### UI 화면
 
-![RPReplay_Final1669447701 2](https://user-images.githubusercontent.com/67791317/204077665-8eb593a7-b8fa-4c4a-b6e1-9c9415c54d9e.gif)
+<img src="https://user-images.githubusercontent.com/67791317/204077665-8eb593a7-b8fa-4c4a-b6e1-9c9415c54d9e.gif" width="35%" height="35%"/>
 
 [본 서비스 체험하기 (웹)](https://big-leader-upa-project.herokuapp.com/chart)
 
